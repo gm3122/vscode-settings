@@ -1,0 +1,75 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "ctrl+m",
+    "command": "workbench.action.toggleMenuBar"
+  },
+  {
+    "key": "ctrl+s",
+    "command": "workbench.action.files.saveFiles"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "editor.emmet.action.wrapWithAbbreviation"
+  },
+  {
+    "key": "ctrl+e",
+    "command": "editor.emmet.action.expandAbbreviation",
+    "when": "config.emmet.triggerExpansionOnTab && editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "editor.action.duplicateSelection"
+  },
+  {
+    "key": "ctrl+k ctrl+k",
+    "command": "editor.emmet.action.removeTag"
+  },
+  {
+    "key": "ctrl+alt+d",
+    "command": "editor.action.addSelectionToNextFindMatch",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+shift+[Backquote]",
+    "command": "workbench.action.terminal.new"
+  },
+  {
+    "key": "ctrl+shift+alt+f",
+    "command": "editor.action.formatDocument",
+    "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+  },
+  {
+    "key": "ctrl+shift+i",
+    "command": "eslint.executeAutofix",
+    "when": "editorLangId =~ /javascript|javascriptreact|typescript|typescriptreact/"
+  },
+  {
+    "key": "ctrl+shift+alt+i",
+    "command": "editor.action.sourceAction",
+    "args": {
+      "kind": "source.addMissingImports",
+      "apply": "first"
+    }
+  },
+  {
+    "key": "ctrl+[Backquote]",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "F4",
+    "command": "settings.cycle.exclude"
+  },
+  {
+    "key": "ctrl+k w",
+    "command": "workbench.action.closeOtherEditors"
+  },
+  {
+    "key": "ctrl+alt+l",
+    "command": "editor.action.insertCursorAtEndOfEachLineSelected"
+  },
+  {
+    "key": "ctrl+shift+alt+right",
+    "command": "editor.action.smartSelect.grow"
+  }
+]

@@ -1,0 +1,68 @@
+{
+    "impc": {
+        "prefix": "impc",
+        "body": "import config from '~/config';$0",
+        "description": "import config"
+    },
+    "impal": {
+        "prefix": "impal",
+        "body": "import axios from '~/lib/instances/axios';$0",
+        "description": "import axios from lib"
+    },
+    "impjson": {
+        "prefix": "impjson",
+        "body": "import ${1} from './${1}.json';$0",
+        "description": "import json"
+    },
+    "impjsong": {
+        "prefix": "impjsong",
+        "body": "import ${1} from '~/json/${1}.json';$0",
+        "description": "import json"
+    },
+    "impual": {
+        "prefix": "impual",
+        "body": "import useAxios from '~/lib/hooks/use-axios';$0",
+        "description": "import useAxios"
+    },
+    "imputra": {
+        "prefix": "imputra",
+        "body": "import { useTranslate } from '~/translate';$0",
+        "description": "import useTranslate"
+    },
+    "impwd": {
+        "prefix": "impwd",
+        "body": "import withData from '~/lib/HOCs/with-data';$0",
+        "description": "import withData"
+    },
+    "impwp": {
+        "prefix": "impwp",
+        "body": "import withPromise from '~/lib/HOCs/with-promise';$0",
+        "description": "import withPromise"
+    },
+    "impgc": {
+        "prefix": "impgc",
+        "body": "import { GlobalContext } from '~/providers/global';$0",
+        "description": "import { GlobalContext }"
+    },
+    // hooks
+    "utra": {
+        "prefix": "utra",
+        "body": "const ${2:{ ${1} }} = useTranslate();$0",
+        "description": "react: useTranslate"
+    },
+    "ugc": {
+        "prefix": "ugc",
+        "body": "const { user } = useContext(GlobalContext);$0",
+        "description": "react: useContext(GlobalContext)"
+    },
+    "cn": {
+        "prefix": "className",
+        "body": "className={classes.${1:root}}$0",
+        "description": "react: className"
+    },
+    "btn": {
+        "prefix": "btn",
+        "body": "<button onClick={() => $2}>${1:test}</button>$0",
+        "description": "testing: button"
+    }
+}

@@ -1,0 +1,116 @@
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.telemetryOptOutShown: "true"
+workbench.panel.dimension: bottom
+dbaeumer.vscode-eslint: '{"eslintAlwaysAllowExecution":true}'
+Equinusocio.vsc-material-theme: '{"vsc-material-theme.version":"33.1.2"}'
+workbench.activity.showAccounts: "false"
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.extension.comment-anchors.state.hidden: '[{"id":"fileAnchors","isHidden":false},{"id":"workspaceAnchors","isHidden":false},{"id":"epicAnchors","isHidden":false}]'
+esbenp.prettier-vscode: '{"PRETTIER_MODULE_ALWAYS_ALLOWED":true}'
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.updates","isHidden":false},{"id":"gitlens.views.welcome","isHidden":false}]'
+eamodio.gitlens: '{"gitlens:views:welcome:visible":true,"gitlens:views:updates:visible":false,"gitlens:version":"11.4.0","gitlens:synced:version":"11.4.0"}'
+workbench.view.extension.snippets-explorer.state.hidden: '[{"id":"snippetsExplorer","isHidden":false}]'
+workbench.view.extension.latex.state.hidden: '[{"id":"latex-commands","isHidden":false},{"id":"latex-structure","isHidden":false},{"id":"latex-snippet-view","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"~remote.forwardedPorts","isHidden":false},{"id":"~remote.helpPanel","isHidden":false},{"id":"devVolumes","isHidden":false}]'
+workbench.panel.lastNonMaximizedHeight: "268"
+workbench.panel.lastNonMaximizedWidth: "300"
+dbaeumer.jshint: '{"jshint/alwaysAllowExecution":true}'
+workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false}]'
+workbench.view.extension.github-pull-requests.state.hidden: '[{"id":"github:login","isHidden":false},{"id":"pr:github","isHidden":false},{"id":"issues:github","isHidden":false}]'
+workbench.auxiliarybar.size: "300"
+workbench.view.extension.latex-workshop-activitybar.state.hidden:
+  '[{"id":"latex-workshop-commands","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"latex-workshop-snippet-view","isHidden":false}]'
+vscode-icons-team.vscode-icons: '{"vsicons":{"version":"11.8.0","status":2,"welcomeShown":true}}'
+workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.merges","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true}]'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false}]'
+ms-azuretools.vscode-docker: '{"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaa","reusableLinks","vscode-docker.aatestcf","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","mindaroBinariesVersion","mindaroBinariesVersion-1.0.20210702","mindaroBinariesVersion-1.0.20210723","account-aacf","copilotaacf","copilotincludeprompt"],"assignmentContext":"vsliv368:30146709;vsreu685:30147344;vscode-docker_aaflightcf:30153984;python383:30185418;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;bridge0708:30335490;bridge0723:30353136;vsaa593cf:30376535;vscop804:30404766;vscop341:30404997;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":true,"reusableLinks":true,"vscode-docker.aatest":false,"RemoveKernelToolbarInInteractiveWindow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"mindaroBinariesVersion":"1.0.20210615.1","mindaroBinariesVersion-1.0.20210702":"1.0.20210708.15","mindaroBinariesVersion-1.0.20210723":"1.0.20210723.6","account-aa":false,"copilotaa":false,"copilotincludeprompt":"eager"}}]},"vscode-docker.activity.overall":{"lastSession":1622636779477,"currentMonthSessions":1,"totalSessions":9},"vscode-docker.activity.overallnoedit":{"lastSession":1622636779467,"currentMonthSessions":1,"totalSessions":6},"vscode-docker.startPage.lastVersionShown":"1.17.0","vscode-docker.container.newContainerUser":false}'
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"extension.firefox.loadedScripts","isHidden":false}]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false,"order":2},{"id":"timeline","isHidden":false,"order":3},{"id":"workbench.explorer.openEditorsView","isHidden":false,"order":1},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false,"order":0},{"id":"npm","isHidden":false,"order":6},{"id":"commitViewProvider","isHidden":false,"order":4},{"id":"compareCommitViewProvider","isHidden":false,"order":5}]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-vscode-remote.remote-wsl#wslWelcome",{"firstSeen":1639402277533,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1639402285956,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}]]'
+workbench.sidebar.size: "272"
+ms-vscode-remote.remote-containers: '{"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaa","reusableLinks","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","mindaroBinariesVersion","mindaroBinariesVersion-1.0.20210702","mindaroBinariesVersion-1.0.20210723","account-aacf","copilotaacf","copilotincludeprompt"],"assignmentContext":"vsliv368:30146709;vsreu685:30147344;python383:30185418;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;bridge0708:30335490;bridge0723:30353136;vsaa593cf:30376535;vscop804:30404766;vscop341:30404997;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":true,"reusableLinks":true,"RemoveKernelToolbarInInteractiveWindow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"mindaroBinariesVersion":"1.0.20210615.1","mindaroBinariesVersion-1.0.20210702":"1.0.20210708.15","mindaroBinariesVersion-1.0.20210723":"1.0.20210723.6","account-aa":false,"copilotaa":false,"copilotincludeprompt":"eager"}}]},"removeOnStartup":false}'
+workbench.panel.size: "321"
+workbench.statusbar.hidden: '["status.workspaceTrust.0b6280fcf59fbe60f3290c53b97a44b1","status.workspaceTrust.75b41101a2a75406eadb4a5cbcc981ad","status.workspaceTrust.230452af67b8fa73c78a49f4e3c0b8ee","status.workspaceTrust.a90ef0c8156fee66d807f8923d1b25d0","status.workspaceTrust.9d6cf390bf68ff46c2b3926e9a9ed7b3","status.workspaceTrust.58aba9466fd835741cb45e68f13411af","status.workspaceTrust.f3d1aefbc8e19a911da730a840192716","status.workspaceTrust.98c0e10795716e62660c8055b085bca4","status.workspaceTrust.b20b377ca097a5d6957a0bebd143744e","status.workspaceTrust.05f3527b26a402158d0bf2b6fda66586","status.workspaceTrust.1624700162577","status.workspaceTrust.8d95ca7181401be695d317fa73da50c0","status.workspaceTrust.f8627864e7d324af4ea9d45ea458f315","status.workspaceTrust.008a2234f610fd3b8380b8cefa0ac6ce","status.workspaceTrust.ext-dev","status.workspaceTrust.839d13be260631d3d12ef8836e718734","status.workspaceTrust.666fc6db1059800e4fd4e81f5e049212","status.workspaceTrust.6cf7f780c46268bb19f976b3b6c1190f","status.workspaceTrust.54f66ac20dd6d32509bc51dd56c2fb95","status.workspaceTrust.75388c2f9b3540914b88ef447c3a788b","status.workspaceTrust.bec2d8dd65b8cc5d0ebc86f803381dbc","status.workspaceTrust.f92ad7c47282b492e61a2701aaf65ed4","status.workspaceTrust.626dff5a6eea20e0b55351b7f58f35f4","status.workspaceTrust.46388d334921ac0584fbf8f959149bd9","status.workspaceTrust.570ca569f9359e32c4a089d992138433","status.workspaceTrust.1625498793776","status.workspaceTrust.3c368b18252cdedff172c9848863f01b","status.workspaceTrust.135a7555f63d2cec887e9ce4a6ec043f","status.workspaceTrust.0be9b3d0c66303b840cc17b94503fc05","status.workspaceTrust.f79c598321fc622adb98052a5beea9cf","status.workspaceTrust.1626457534164","status.workspaceTrust.5c9fb8090506b0d0d349b0fe39615d62","status.workspaceTrust.ed2950f21ab33c798fabd9907c90c9d7","status.workspaceTrust.5a3ca673d0b670d3c6bd762d4b4293d6","status.workspaceTrust.f6ab1750090ce9f7b46fecab7f5de1f4","status.workspaceTrust.357e3a45fae52c3a93ba363135bd74b8","status.workspaceTrust.2ba41564e257045808b6b6cee1275104","status.workspaceTrust.857fdf482d48568e41571b9dd31e6b7f","status.workspaceTrust.1630855346555","status.workspaceTrust.5674a20a5bef816665dd87b3bc170cbe","status.workspaceTrust.a4dcb981bf83873a96da1da44ef80834","status.workspaceTrust.048c4d98eaf8ce2ea65f264beae6efd1","status.workspaceTrust.1631632252339","status.workspaceTrust.1631632320164","status.workspaceTrust.6db98d2ca21dbef94389d554de27933a","status.workspaceTrust.a134f9c1d2ee5936a6786d5acc79311d","status.workspaceTrust.38d545f3260e50dadf13d889f547f6c6","status.workspaceTrust.eba023096ebc401af07df2b3c6f9f6ed","status.workspaceTrust.91732a6978d6b5fceee5414ed72bad16","status.workspaceTrust.1632605130756","status.workspaceTrust.1632605377308","status.workspaceTrust.1632605421061","status.workspaceTrust.5b24281869e6e4e824c598bd74490bfc","status.workspaceTrust.e716771ec5c5abd485947a61f7326e2f","status.workspaceTrust.ce0812906a280adb249fc99fe3ceb52f","status.workspaceTrust.1633080879559","status.workspaceTrust.1633172093495","status.workspaceTrust.dccba5eb748495341c1c4fd07b76a226","status.workspaceTrust.64d7a14cfddcb8fe003f3ace88b066a8","status.workspaceTrust.41a3efef4cd4736cdd3e5461004aa72c","status.workspaceTrust.74788e2e54789efb938345f5b8c207a0","status.workspaceTrust.1633895442718","status.workspaceTrust.c5848cd2c35656930149a5a2d00af9bc","status.workspaceTrust.d9b6988147f45a0ad28ba21bfd821911","status.workspaceTrust.1634052256331","status.workspaceTrust.466637bf4e198798afbf7dd1e21f381e","status.workspaceTrust.16334d13b76c89be4837c9f9e0e63ae0","status.workspaceTrust.c1af658057c2444a1e265e58958d730d","status.workspaceTrust.b296e4b43dee526eb5da25beb7785152","status.workspaceTrust.b0bec6e2f7bdef0e2b987afadd58a31d","status.workspaceTrust.14eacce88792becd02a9296bce8b0e2c","status.workspaceTrust.2fb4e34ab19e5ff8d5c8d5ba12757efe","status.workspaceTrust.cbb16fde9457c4933713ce9bbd90283e","status.workspaceTrust.8785bba63b5d6d9312b9153fc3b1aadc","status.workspaceTrust.84cdacc2f32efb89893c048b489d1eb5","status.workspaceTrust.28f9c381884dc138b6fa4f7d5bf4d989","status.workspaceTrust.cd561ebd953e031308214fcd4c798dc9","status.workspaceTrust.ed7356d0af71f75d7622a7bb028ac210","status.workspaceTrust.d62ef4a6c3d69180e562f47cb12215bb","status.workspaceTrust.05470b5fa5c674c054880a30b907a85d","status.workspaceTrust.f4c4c82e2e2548d99a27b376264bb4ad","status.workspaceTrust.20a01a2253a6db9c9060b0f9c0195a8b","status.workspaceTrust.6a47c0126a4ef9b4537e8daea74d21f2","status.workspaceTrust.2b633780081cdf3d5e58ca52c611739d","status.workspaceTrust.0fba39b67e7c8dd76212b6fa1b124864","status.workspaceTrust.9694cbbd844d555274beaa84c222f262","status.workspaceTrust.8aac183f0b7ca77bd6a88e90650ba08f","status.workspaceTrust.2a211070c4ccef11b6cabd766961cb6d","status.workspaceTrust.f089448ae8d1708b678227eb503c5c9a","status.workspaceTrust.8b880205b5564ee0c2b1e140a23b6349","status.workspaceTrust.1638307829341","status.workspaceTrust.122a2b05dca5c1b002047da7be4deb85","status.workspaceTrust.75bee6f5d796a7812cebe2334e0ca859","status.workspaceTrust.96440e9ff877c70849a88bf84b253fc8","status.workspaceTrust.757defbf66957e24bf52d46b92166d8d","status.workspaceTrust.c9ba54768c3ad0164e5c78e491d72cd4","status.workspaceTrust.7d9bc70ad8e12fc09ef5525d7d10911f","status.workspaceTrust.880a3c6ce74cd71b27680c3fcef057a1","status.workspaceTrust.17dc0fbd69831dd443ea405f825eddbc","status.workspaceTrust.5fff5b46023b1b4fe7f4ad175e2a65ec","status.workspaceTrust.08f2b665a669cbb6e52f833637f5cf76","status.workspaceTrust.d0f46f7d6931dfdddbb3988a12c17abe"]'
+workbench.grid.width: "1920"
+workbench.grid.height: "1011"
+Shan.code-settings-sync: "{}"
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.dockerView","pinned":false,"visible":true,"order":9},{"id":"workbench.view.extension.comment-anchors","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":false,"order":8},{"id":"workbench.view.extension.latex","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.snippets-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.sync","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{\"when\":\"openEditorsVisible\"},{},{\"when\":\"time\
+  lineHasProvider\"},{\"when\":\"git.commit.selected && git.commit.view.show &&
+  !config.gitHistory.hideCommitViewExplorer\"},{\"when\":\"git.commit.compare.c\
+  ompared && git.commit.compare.view.show &&
+  !config.gitHistory.hideCompareCommitViewExplorer\"},{\"when\":\"npm:showScrip\
+  tExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"sear\
+  ch-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\
+  \":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\
+  \"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount !=
+  '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
+  -icon\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || debugUx ==
+  'default'\"},{\"when\":\"debugConfigurationType ==
+  'pwa-chrome'\"},{\"when\":\"inDebugMode && debugType ==
+  'firefox'\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remo\
+  te-explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{},{\"when\":\"false\"},{\"when\":\
+  \"remote-containers:showDetails\"},{}]},{\"id\":\"workbench.view.extensions\",\
+  \"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\"isB\
+  uiltin\":true,\"views\":[{\"when\":\"defaultExtensionViews &&
+  !hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"recommendedExtensions && workbenchState
+  != 'empty'\"},{\"when\":\"defaultExtensionViews &&
+  !hasInstalledExtensions\"},{\"when\":\"recommendedExtensions\"},{\"when\":\"d\
+  efaultExtensionViews &&
+  !config.extensions.showRecommendationsOnlyOnDemand\"},{\"when\":\"defaultExte\
+  nsionViews && hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
+  \":\"searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"w\
+  hen\":\"searchDisabledExtensions\"},{\"when\":\"searchOutdatedExtensions\"},{\
+  \"when\":\"searchBuiltInExtensions\"},{\"when\":\"searchWorkspaceUnsupportedE\
+  xtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"\
+  },{\"when\":\"builtInExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExte\
+  nsions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"sea\
+  rchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\"\
+  :{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\
+  \":[{\"when\":\"testing.providerCount >
+  0\"}]},{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"\
+  id\":\"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\
+  \"when\":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.gi\
+  thub-pull-requests\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.\
+  github-pull-request\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension\
+  .latex-workshop-activitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_\
+  DATA_PATH%%/james-yu.latex-workshop-8.22.0/icons/activity-bar.svg\",\"scheme\
+  \":\"file\"},\"name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"la\
+  tex-workshop:enabled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"lat\
+  ex-workshop:enabled\"}]},{\"id\":\"workbench.view.extension.dockerView\",\"ic\
+  onUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-azuretools.vscode-d\
+  ocker-1.18.0/resources/docker.svg\",\"scheme\":\"file\"},\"name\":\"Docker\",\
+  \"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.vie\
+  w.extension.comment-anchors\",\"isBuiltin\":false},{\"id\":\"workbench.view.e\
+  xtension.gitlens\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.la\
+  tex\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.snippets-explor\
+  er\",\"isBuiltin\":false},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\
+  \":\"settings-sync-view-icon\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncMergesView\"},{\"w\
+  hen\":\"enableSyncActivityViews && userDataSyncAccountStatus == 'available' &&
+  syncStatus != 'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"}]}]"
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
+  Console","pinned":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor
+  Preview","pinned":true,"visible":false}]'

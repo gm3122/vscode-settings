@@ -1,0 +1,63 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 16,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.stickyTabStops": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+  "editor.suggest.preview": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "#a6a6a6"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "git.enableSmartCommit": true,
+  "javascript.suggestionActions.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.resolveGlobalModules": true,
+  "terminal.external.linuxExec": "guake",
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorCustomizations": {
+    "breadcrumb.focusForeground": "#ffffff",
+    "breadcrumb.foreground": "#a6a6a6",
+    "editor.selectionBackground": "#135564",
+    "editor.selectionHighlightBackground": "#135564",
+    "editorHoverWidget.background": "#333333",
+    "editorLineNumber.foreground": "#a6a6a6",
+    "gitDecoration.ignoredResourceForeground": "#a6a6ff",
+    "gitDecoration.modifiedResourceForeground": "#00ffb39a",
+    "list.activeSelectionBackground": "#4d4d4d",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.inactiveSelectionBackground": "#4d4d4d",
+    "list.inactiveSelectionForeground": "#ffffff",
+    "sideBar.foreground": "#a6a6a6",
+    "statusBar.foreground": "#a6a6a6",
+    "tab.inactiveForeground": "#a6a6a6"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "[javascript][json][jsonc][typescript][typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "editor.linkedEditing": false,
+  "git.allowForcePush": true,
+  "debug.javascript.autoAttachFilter": "disabled",
+  "workbench.editor.wrapTabs": true,
+  "debug.javascript.suggestPrettyPrinting": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "emmet.extensionsPath": ["~/Sync/.vscode/emmet"],
+  "editor.inlayHints.enabled": false,
+  "files.autoGuessEncoding": true,
+  "files.defaultLanguage": "${activeEditorLanguage}",
+  "mui-snippets.importPaths": "second level",
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Community Material Theme Darker",
+  "git.confirmSync": false,
+  "editor.suggestSelection": "first",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.startupEditor": "none",
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "settingsSync.keybindingsPerPlatform": false
+}

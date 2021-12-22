@@ -1,0 +1,110 @@
+disabled:
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: dbaeumer.jshint
+    uuid: 82dfe17d-bb64-404e-bcc5-f9803f7ab5d5
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: formulahendry.auto-close-tag
+    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: Shan.code-settings-sync
+    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: amodio.tsl-problem-matcher
+    uuid: 91954a63-baf9-4e93-a97c-7798c45ca9f7
+  - id: apollographql.vscode-apollo
+    uuid: de44183f-5377-4ceb-ac15-79364a30070c
+  - id: arcanis.vscode-zipfs
+    uuid: b14d47f6-5230-4a65-9366-82edc70d5dfd
+  - id: bungcip.better-toml
+    uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
+  - id: carbonid1.emmet-jss
+    uuid: e2b86827-c685-4b3d-8d60-4432849828c8
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
+  - id: Cmacu.gotoanything
+    uuid: 64c25b76-3afe-477e-9bd0-f1f9d746a77c
+  - id: DavidAnson.vscode-markdownlint
+    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: donjayamanne.githistory
+    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: eg2.vscode-npm-script
+    uuid: ae9e3eb0-3357-4cc0-90ee-598d2d384757
+  - id: EQuimper.react-native-react-redux
+    uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
+  - id: Equinusocio.vsc-community-material-theme
+    uuid: bf8aa94a-4051-42fe-9bd1-2becad466fe7
+  - id: Equinusocio.vsc-material-theme
+    uuid: 45bfc9eb-5e03-487f-bffe-315fa6881d6a
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: firefox-devtools.vscode-firefox-debug
+    uuid: c5f4d87f-a524-462c-ac01-923eb19cf3e9
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: gerane.Theme-Sunburst
+    uuid: 7bdd99b6-ec34-4ad4-b8ba-65e5924f4c37
+  - id: HookyQR.beautify
+    uuid: 697255a9-3f36-44c8-b084-d3b91edfb23a
+  - id: hoovercj.vscode-settings-cycler
+    uuid: f38abf4d-543d-496d-9353-0025faa19abd
+  - id: infarkt.css-to-jss
+    uuid: c137ee2d-7a42-4267-b3b0-d8a48a55f90a
+  - id: ipatalas.vscode-postfix-ts
+    uuid: cea424e5-593f-4e56-ae72-9d0abb62b700
+  - id: James-Yu.latex-workshop
+    uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
+  - id: jock.svg
+    uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
+  - id: jtr.vscode-position
+    uuid: 686dfeeb-41da-432f-90da-42bb523d83f6
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-ssh
+    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
+  - id: ms-vscode-remote.remote-ssh-edit
+    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: ms-vscode-remote.vscode-remote-extensionpack
+    uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
+  - id: dora.my-extension
+    uuid: null
+  - id: netcorext.uuid-generator
+    uuid: 802d93e3-0926-4d33-8408-b00d92d6cd0c
+  - id: plibither8.remove-comments
+    uuid: 838d060e-1c47-4e05-b553-439c5b94fedc
+  - id: qbik.markdown-command-runner-fork
+    uuid: 1c7feabd-76a7-4371-afe2-8c3f7ed82102
+  - id: sanity-io.vscode-sanity
+    uuid: e7579f4f-1ee8-44ec-8b4f-a5f8fcda9c0a
+  - id: silvenon.mdx
+    uuid: ef2a5b38-02c4-4193-8561-1f072c209474
+  - id: dora.javascript-snippets
+    uuid: null
+  - id: undefined_publisher.snippets-extension
+    uuid: null
+  - id: stevencl.addDocComments
+    uuid: 2e9fe0cb-4e63-42fc-a809-fb056aad49c3
+  - id: visioncan.vscode-jss-snippets
+    uuid: 01f74564-710c-431f-a7df-5c335c3f5384
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: vscodeshift.mui-snippets
+    uuid: d2a2b8bd-7b74-4ed2-8960-26f428f28d99
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
